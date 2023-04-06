@@ -11,7 +11,8 @@ Requirements
 
 *   Java JDK 8 or later
 *   JavaFX SDK
-*   Internet connection to access social network
+*   Swing for the Frontend
+*   SQL for database 
 
 Usage
 -----
